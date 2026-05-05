@@ -15,11 +15,11 @@ RFM Analysis
 K-Means Clustering
 
 📈 Result
-| Cluster | Segment    |
-| ------- | ---------- |
-| 0       | At Risk    |
-| 1       | Regular    |
-| 2       | Recent     |
+| Cluster   | Behavior                | Segment    |
+| --------- | ----------------------- | ---------- |
+| Cluster 2 | High spending, frequent | High Value |
+| Cluster 1 | Long inactivity         | At Risk    |
+| Cluster 0 | Low engagement          | Low Value  |
 
 💡 Business Insight
 High-value customers show signs of inactivity
