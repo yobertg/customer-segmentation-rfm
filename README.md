@@ -6,6 +6,8 @@ Segment customers based on purchasing behavior
 In this project, both K-Means Clustering and RFM Segmentation are used to analyze customer behavior.
 Although they may seem similar, they serve different but complementary purposes.
 
+Dataset Source
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 🧠 Methodology
 Data Cleaning
